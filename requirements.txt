@@ -3,3 +3,10 @@ numpy
 matplotlib
 torch
 seaborn
+lightning
+datasets
+transformers
+nltk
+scipy 
+rouge 
+gensim
