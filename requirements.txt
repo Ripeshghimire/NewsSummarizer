@@ -13,3 +13,4 @@ gensim
 scikit-learn
 datasets
 ipykernel
+streamlit
